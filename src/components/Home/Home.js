@@ -28,9 +28,7 @@ const Home = () => {
                         <div
                             style={{ height: "90vh" }}
                             className="d-flex justify-content-center align-items-center"
-                        ><br />
-
-                            <br />
+                        >
                             <div className="text-center mt-5 my-5 py-5">
                                 <h1 className=" rounded  bg-white">
                                     Learn to be defensive, protective and creative</h1>
