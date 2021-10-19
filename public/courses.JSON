@@ -1,0 +1,102 @@
+[
+    {
+        "id": 20001,
+        "name": "Shaolin Kung Fu 少林功夫",
+        "image": "https://www.chinawhisper.com/wp-content/uploads/2013/11/shaolin-kung-fu.jpg",
+        "description": "Shaolin Kung Fu is well known both at home and abroad. It originated from the Shaolin Temple on Mount Songshan, Dengfeng County, Henan Province. It integrates the wisdom of Zen Buddhism into Chinese Kungfu and formed various kinds of sub-styles. Its basic skills mainly include tumbling, jumping, rolling and others. In recent years westerners are becoming more and more interested in learning it.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "China",
+        "instructor": "Jackie Chan"
+    },
+    {
+        "id": 20002,
+        "name": "Tai Chi Quan 太极拳",
+        "image": "https://www.chinawhisper.com/wp-content/uploads/2013/11/taijiquan.jpg",
+        "description": "Tai Chi only has a history of several hundred years, yet it has been practiced widely by the public in many parts of China. When you visit any park in the early morning anywhere in China, you can find old people practicing Taichi.Tai Chi absorbs the advantages of different marital arts, integrating Yin and Yang theory, traditional Chinese medicine and other ideas, creating a set of marital art. Practicers move their bodies slowly and gently to develop one’s internal power.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "Northern China",
+        "instructor": "Ling chung"
+    },
+    {
+        "id": 20003,
+        "name": "Wing Chun Quan 咏春拳",
+        "image": "https://www.chinawhisper.com/wp-content/uploads/2013/11/wing-chun-quan.jpg",
+        "description": "Wing Chun is one of the strongest, most direct Kung fu styles. Wing Chun was originated in the early 1700s at the Shaolin Temple and was then was widely spread by Bruce Lee’s Wing Chun teacher, Yip Man.The main principle of Wing Chun is “simplicity.” The less complex the techniques are, the more effective they will become.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "Hong Kong, China",
+        "instructor": "Bruce Lee"
+    },
+    {
+        "id": 20004,
+        "name": " Baguazhang 八卦掌",
+        "image": "https://www.chinawhisper.com/wp-content/uploads/2013/11/Baguazhang.jpg",
+        "description": "Baguazhang is a soft and internal style martial art. The creation of Baguazhang, as a formalized martial art, is credited to Dong Haichuan in the early 19th century.Baguazhang attaches importance to the interplay between mind and outside movements and is often characterized by slow and flowing movements.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "Beijing, China",
+        "instructor": "Tianmao Lee"
+    },
+    {
+        "id": 20005,
+        "name": "Xing Yi Quan 形意拳",
+        "image": "https://www.chinawhisper.com/wp-content/uploads/2013/11/xing-yi-quan.jpg",
+        "description": "Xingyiquan is one of the oldest Internal Martial Arts styles, the other two are Tai Chi and Baguangzhang. Xingyiquan pays more attention on internal power, with loose movements but clear intention. It features aggressive movements, explosive power and unpredictable fighting skills.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "West China",
+        "instructor": "Tianmao Chan"
+    },
+    {
+        "id": 20006,
+        "name": "Choy Lai Fut 蔡李佛",
+        "image": "https://www.chinawhisper.com/wp-content/uploads/2013/11/Choy-Lai-Fut.jpg",
+        "description": "Choy Li Fut is a kind of Chinese martial art founded by Chen Heng from Guangdong province in the 1830s.The system compromises the merits of different martial arts techniques, forming his own Kung Fu style. Choy Li Fut stresses on relaxed, internal power instead of muscular force.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "South China",
+        "instructor": "Mianmao Chan"
+    },
+    {
+        "id": 20007,
+        "name": "Bajiquan 八极拳",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/WLZ-liang-yi-ding2.jpg/640px-WLZ-liang-yi-ding2.jpg",
+        "description": "Bajiquan was originated Hui Minority Kung Fu of the Cangzhou county, HeiBei province.Contrary to Tai Chi, Bajiquan is a powerful Kung fu styple featuring explosive, short-range power techniques, and is closely related with the military system. Many bodyguards who protect politicians practice Bajiquan.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "West China",
+        "instructor": "Tian Chan"
+    },
+    {
+        "id": 20008,
+        "name": "Praying Mantis 北螳螂拳",
+        "image": "https://www.chinawhisper.com/wp-content/uploads/2013/11/Northern-Praying-Mantis.jpg",
+        "description": "Praying Mantis was created by Wang Lang during the late Ming and early Qing periods. It mimics the actions of a mantis with two hands like hooks. It emphasizes hand play and footwork as well as speed and agility.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "West China",
+        "instructor": "Zhang Chan"
+    },
+    {
+        "id": 20009,
+        "name": "Nan Quan 南拳",
+        "image": "https://www.chinawhisper.com/wp-content/uploads/2013/11/Nanquan.jpg",
+        "description": "Nan Quan, also known as the Nanfang Quan, is the combination of Southern Shaolin boxing and other southern boxing techniques such as Hung Gar, Mok Gar, and Choy Li Fut. Nan Quan stresses on simple actions, changing and short-range hand plays and steady footwork.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "West China",
+        "instructor": "Tianmao Chan"
+    },
+    {
+        "id": 20010,
+        "name": "Chang Quan 长拳",
+        "image": "https://www.chinawhisper.com/wp-content/uploads/2013/11/changquan.jpg",
+        "description": "Chang Quan is a family of external martial arts styles which combines many Chinese martial art styles. It emphasizes fully extended kicks and striking techniques. Chang Quan was formed in recent years and is often displayed in various Martial Art Contests.",
+        "price": 14.99,
+        "rating": 4.5,
+        "origin": "China",
+        "instructor": "Neng Lee"
+    }
+]

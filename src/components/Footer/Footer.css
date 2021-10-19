@@ -1,0 +1,11 @@
+.footer{
+    position:calc(100% - 60px);
+left:0;
+bottom:0;
+right:0;
+
+}
+.footer-anchor{
+    text-decoration: none;
+    
+}

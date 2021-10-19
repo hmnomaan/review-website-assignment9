@@ -1,0 +1,13 @@
+img{
+   height: 280px;
+   overflow: hidden;
+   padding: 5px;
+  
+}
+.card{
+    border: 2px solid rgb(231, 190, 190);
+    border-radius: 10px;
+}
+.decoration{
+    text-decoration: none;
+}

@@ -1,0 +1,7 @@
+.feature-courses{
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+}
+.bg-white{
+    opacity: 90%;
+}
